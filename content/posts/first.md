@@ -7,7 +7,7 @@ draft = false
 
 
 What is Apache Kafka?
-Apache Kafka is an open-source streaming data platform originally developed by LinkedIn.  As it expanded Kafka’s capabilities, LinkedIn donated it to Apache for further development. 
+Apache Kafka is an open-source streaming data platform originally developed by LinkedIn.
 
 Kafka operates like a traditional pub-sub message queue, such as RabbitMQ, in that it enables you to publish and subscribe to streams of messages.  But it differs from traditional message queues in 3 key ways:
 
@@ -16,6 +16,4 @@ Kafka is designed to serve as a storage system and can store data as long as nec
 Kafka handles stream processing, computing derived streams and datasets dynamically, rather than just passing batches of messages.
 
 What is Kafka used for?
-Kafka is a stream processing system used for messaging, website activity tracking, metrics collection and monitoring, logging, event sourcing, commit logs, and real-time analytics. It’s a good fit for large scale message processing applications since it is more robust, reliable, and fault-tolerant compared to traditional message queues.
-
-Open-source Kafka or managed distributions are ubiquitous in modern software development environments. Kafka is used by developers and data engineers at companies such as Uber, Square, Strave, Shopify, and Spotify.
+Kafka can be used in asynchronous processing.It is used in the usecases like update profile where we submit the request for update and in the backend it will process the updates and we don't wait for the request response.
