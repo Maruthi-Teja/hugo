@@ -1,0 +1,31 @@
+baseURL = ""
+languageCode = 'en-us'
+title = 'maruthi.me'
+theme = 'PaperMod'
+[params]
+    ShowBreadCrumbs = true
+    ShowPostNavLinks = true
+    [params.homeInfoParams]
+        Title = "Hello Stranger"
+        Content = """Welcome to my blog. Here you'll find a lot of cool information about me and other cool stuff."""
+        
+  
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+  
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
