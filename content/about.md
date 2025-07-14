@@ -4,14 +4,23 @@ tags = ["software"]
 
 # AVIRENI MARUTHI TEJA
 
-💻 **Software Engineer** with hands-on experience at **Yahoo** and **Cognizant**, specializing in backend development, data engineering, and microservices architecture. Skilled in building scalable systems using **Java, Spring Boot, Python, Spark, Kafka**, and cloud-native tools.
+💻 **Software Engineer** with proven experience at **Yahoo** and **Cognizant**, delivering high-impact backend systems and data engineering solutions at scale. Adept at designing and deploying microservices and data pipelines that drive business value.
 
-🚀 At **Yahoo**, contributed to the advertising platform by developing real-time activation pipelines, third-party data integrations, and large-scale schedulers using **Spark, Python, Airflow, EMR**, and **Java**.
+🚀 **At Yahoo (Feb 2024 – Present):**  
+- Developed and deployed real-time ad activation systems, enhancing engagement-driven targeting for millions of users.  
+- Engineered scalable data pipelines with **Spark, Airflow, EMR**, and **Java**, improving ad data integration efficiency by 30%.  
+- Built schedulers managing **20K+ third-party data labels**, ensuring accurate mapping across millions of advertising segments.
 
-🏢 At **Cognizant**, improved financial reporting systems, enhanced **Kafka**-driven microservices, and led critical performance upgrades — achieving up to a **5x boost** by migrating to **Spring Cloud Gateway**.
+🏢 **At Cognizant (Aug 2021 – Present):**  
+- Led core enhancements for wealth management systems, increasing financial report generation efficiency by **20%**.  
+- Improved Kafka-driven microservice workflows, boosting data processing accuracy by **40%**.  
+- Spearheaded migration to **Spring Cloud Gateway**, achieving a **5x system performance improvement**.  
 
-🏆 Strong foundation in software engineering principles with notable achievements in hackathons and project competitions.  
-📜 Certified **AWS Cloud Practitioner** and **Azure AZ-900**.  
-💡 Passionate about solving problems and delivering impact-driven solutions.
+🏆 **Achievements:**  
+- 🥈 Awarded Silver Cup at Cognizant Client Hackathon for innovation.  
+- 🏅 Winner of Cognizant intern project competition.  
+- 📜 Certified **AWS Cloud Practitioner** & **Azure AZ-900**.  
 
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/maruthi-teja/)!
+💡 Passionate about solving complex problems and building reliable, scalable software. Always exploring ways to align technology with business outcomes.
+
+🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/maruthi-teja/)!
