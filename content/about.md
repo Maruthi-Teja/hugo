@@ -9,7 +9,8 @@ tags = ["software"]
 🚀 **At Yahoo (Feb 2024 – Present):**  
 - Spearheaded the development and deployment of real-time ad activation systems based on user engagement.  
 - Engineered scalable data pipelines using **Spark, Airflow, EMR**, and **Java** for seamless ad data processing and integration.  
-- Built a scheduler to ingest and update third-party data labels linked with millions of advertising segments, ensuring accurate and efficient data handling.
+- Designed and implemented a scheduler for ingesting and updating third-party data labels, maintaining accuracy and efficiency across millions of  advertising segments.
+
 🏢 **At Cognizant (Aug 2021 – Present):**  
 - Led core enhancements for wealth management systems, increasing financial report generation efficiency by **20%**.  
 - Improved Kafka-driven microservice workflows, boosting data processing accuracy by **40%**.  
