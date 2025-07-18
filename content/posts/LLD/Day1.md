@@ -1,5 +1,6 @@
 +++
 title = 'Understanding SOLID Principles in Object-Oriented Design'
+date = 2025-07-18
 
 +++
 
