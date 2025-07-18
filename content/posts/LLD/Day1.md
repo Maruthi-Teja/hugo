@@ -1,4 +1,7 @@
-# 🧩 Understanding SOLID Principles in Object-Oriented Design  
++++
+title = 'Understanding SOLID Principles in Object-Oriented Design'
+
++++
 
 In software engineering, writing clean, maintainable, and scalable code starts with mastering the **SOLID Principles**. These five key guidelines are essential for every developer, especially at the SDE-2/Senior Engineer level.
 
