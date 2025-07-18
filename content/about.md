@@ -7,10 +7,9 @@ tags = ["software"]
 💻 **Software Engineer** with proven experience at **Yahoo** and **Cognizant**, delivering high-impact backend systems and data engineering solutions at scale. Adept at designing and deploying microservices and data pipelines that drive business value.
 
 🚀 **At Yahoo (Feb 2024 – Present):**  
-- Developed and deployed real-time ad activation systems, enhancing engagement-driven targeting for millions of users.  
-- Engineered scalable data pipelines with **Spark, Airflow, EMR**, and **Java**, improving ad data integration efficiency by 30%.  
-- Built schedulers managing **20K+ third-party data labels**, ensuring accurate mapping across millions of advertising segments.
-
+- Spearheaded the development and deployment of real-time ad activation systems based on user engagement.  
+- Engineered scalable data pipelines using **Spark, Airflow, EMR**, and **Java** for seamless ad data processing and integration.  
+- Built a scheduler to ingest and update third-party data labels linked with millions of advertising segments, ensuring accurate and efficient data handling.
 🏢 **At Cognizant (Aug 2021 – Present):**  
 - Led core enhancements for wealth management systems, increasing financial report generation efficiency by **20%**.  
 - Improved Kafka-driven microservice workflows, boosting data processing accuracy by **40%**.  
